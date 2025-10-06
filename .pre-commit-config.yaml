@@ -1,5 +1,5 @@
-# SPDX-FileCopyrightText: 2024 SoupGlasses <sofi+git@mailbox.org>
-#
+# soupglasses/nix-system-graphics: 2024 SoupGlasses <sofi+git@mailbox.org>
+# Balmz wallet
 # SPDX-License-Identifier: MIT
 
 default_install_hook_types: [pre-commit, pre-push]
